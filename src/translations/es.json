@@ -1,0 +1,14 @@
+{
+    "app.nombre": "Nombre",
+    "app.pais": "País",
+    "app.genero":"Género",
+    "app.fundacion": "Fundación",
+    "app.titulo": "Bandas musicales",
+    "app.banda_mas_antigua": "La banda más antigua es ",
+    "app.fundada_en": {
+        "defaultMessage": " y fue fundada hace "
+    },
+    "app.anios_ago": {
+        "defaultMessage": " anios"
+    }
+}

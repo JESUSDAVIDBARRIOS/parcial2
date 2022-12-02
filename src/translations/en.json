@@ -1,0 +1,10 @@
+{
+    "app.nombre": "Name",
+    "app.pais": "Country",
+    "app.genero": "Genre",
+    "app.fundacion": "Foundation",
+    "app.titulo": "Musical Bands",
+    "app.banda_mas_antigua": "The oldest band is ",
+    "app.fundada_en": " and was founded ",
+    "app.anios_ago": " ago"
+}
